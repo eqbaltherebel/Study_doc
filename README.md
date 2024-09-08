@@ -30,3 +30,14 @@ SOLID principal
 Design patterns
 HLD
 LLD, Gradle
+ResponseEntity(Handling httpstatus)
+JWT token 
+Practical
+Cookies
+Session
+AWS cloud
+Next topic
+Spring security
+JWT token
+Spring web devtool dependency
+
