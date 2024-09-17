@@ -3,7 +3,10 @@ This contains notes of technologies
 **
 # Java Technology
 Use a project in another project by putting dependency in xml file
+Stream
+Java Collections
 parallelStream
+Map
 flatMap
 Why use in java Builder or build
 Pagination 
@@ -40,4 +43,5 @@ Next topic
 Spring security
 JWT token
 Spring web devtool dependency
+unit testing
 
