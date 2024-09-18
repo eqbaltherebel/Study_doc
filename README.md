@@ -4,6 +4,7 @@ This contains notes of technologies
 # Java Technology
 Use a project in another project by putting dependency in xml file
 Stream
+Lamba
 Java Collections
 parallelStream
 Map
