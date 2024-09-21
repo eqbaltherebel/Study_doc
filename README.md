@@ -3,6 +3,8 @@ This contains notes of technologies
 **
 # Java Technology
 Use a project in another project by putting dependency in xml file
+Image upload and get in spring boot
+What is Module
 Stream
 Lamba
 Java Collections
@@ -18,6 +20,7 @@ Spring MVC
 Spring Boot
 Lazy Loading, early loading
 Microservices,web client, kafka, REST API
+Microservices patterns
 Entity association in pring Boot
 @Qualifier in springboot, Spring security
 Collections in java
