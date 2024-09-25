@@ -67,6 +67,8 @@ Spring Transactions
 Spring Boot Exception Handling
 @ControllerAdvice
 @ExceptionHandler
+Custom annotation
+@Around annotation
 # Java Technology links
 spring security github link : https://github.com/eazybytes/spring-security
 spring security and jwt github link: https://github.com/EmbarkXOfficial/Spring-Security-Course/tree/main
